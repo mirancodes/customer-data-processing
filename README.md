@@ -1,2 +1,3 @@
-# customer-data-processing
-Customer data analysis using Jupyter Notebook
+# customer data processing
+
+Customer data analysis using Jupyter Notebook by Miranda
